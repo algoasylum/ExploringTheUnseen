@@ -29,13 +29,13 @@ Fig 3: PM2.5 values for Mumbai.
 Consider Mumbai for example, which shows significant drop in PM2.5 as we move from January to July falling well under NAACQ guidelines after lockdown even under WHO in some cases. Other cities show similar trends as well with some outliers in Bengaluru and Chennai.
 
 ### PM2.5 for all cities
-<img src="../code/images/pm2.5_all_cities.png"  height=500 width=700 /><br>
+<img src="../code/images/pm2.5_all_cities.png"  width=100% /><br>
 Fig 4: PM2.5 values for all the cities.
 ### Plot them all!
 <img src="../code/images/all_pollutants.png"   width=100% /><br>
 Fig 5: All the polltants for every city.
 # Conclusion
-As we move from January to July most cities show significant reduction in their PM2.5 and PM10 levels after March i.e when lockdown was imposed. Cities like Delhi with high pollution levels show reduction, but plateau out after some time, while cities like Mumbai and Kolkata show reduction in their pollution leevels. But these are not without some outliers i.e peaks in Bengaluru and Chennai. This provides a concise and visually interesting way to look and pollution trends with our Country’s major cities.
+As we move from January to July most cities show significant reduction in their PM2.5 and PM10 levels after March i.e when lockdown was imposed. Cities like Delhi with high pollution levels show reduction, but plateau out after some time, while cities like Mumbai and Kolkata show reduction in their pollution levels. But these are not without some outliers i.e peaks in Bengaluru and Chennai. This provides a concise and visually interesting way to look and pollution trends within our Country’s major cities.
 
 ### Github
 
