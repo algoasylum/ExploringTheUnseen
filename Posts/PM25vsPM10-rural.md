@@ -23,13 +23,13 @@ Guwahati : While having relatively higher values of particulate matter compared 
 
 Coimbatore : While the general decreasing trend of particulate matter levels is prevalent, the PM10 values actually rise from April to May, while the PM 2.5 levels continue to decline. However, the transition from June to July notices a spike in both the values, possibly owing to the relaxation of restrictions placed due to the lockdown.
 
-Jabalpur : Transition from March to April and April to May show anomalous behaviour when seen in context of the lockdown, as levels of both PM 2.5 and PM 10 rise during this period. This is followed by subsequent decline in the levels over the next couple of months.
+Jabalpur : The presence of a sharp decline in PM levels from Feb to Mar followed by a relatively small reduction and almost no change in PM10 values over the next couple of months, is quite interesting to observe, given that the lockdown got imposed in Mar itself. This is followed by a subsequent decline in the levels over the next couple of months.
 
-Kota : Unlike other cities, Kota observes an increase in PM 2.5 (Jan to Feb) and PM 10 values (Feb to Mar). This is followed by the common trend of declining levels of particle pollution, having an exception from April to May, as both levels of particulate matter observe a rise in values.
+Kota : Apart from a short spike in PM 2.5 levels from April to May, Kota observes a consistent decline in PM levels (Feb onwards).
 
-Mussoorie : A huge spike in particle pollution levels from Jan to Feb and from March to April (despite lockdown), interspersed (Feb to March) and followed by (May to June) by huge declines in levels.
+Mussoorie : Unlike other places covered previously, Mussoorie observes a huge spike in particle pollution levels from Jan to Feb and from April to May, followed by huge declines in levels in the coming months.
 
-Vapi : Constant reduction in levels of particulate matter from the start of the year to July.
+Vapi : Fairly linear and consistent reduction in levels of particulate matter from the start of the year to July.
 
 
 
