@@ -1,6 +1,6 @@
 # Pollution in Indian Cities: A more Diverse Set
 
-In the previuos post [here](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts./LinePlots-urban-2020.md), we took a look a pollution levels in Major cities like Mumbai, Delhi, Bengaluru, Chennai, Kolkata and Visakhapatnam and the impact of lockdown. In this post, we focus on a more diverse set of cities across India namely `Mussoorie`, `Vapi`, `Kota`, `Jabalpur`, `Coimbatore`, `Guwahati`. to see their trends in pollution levels as lockdown due to COVID is gradually lifted.
+In the previous post [here](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts./LinePlots-urban-2020.md), we took a look a pollution levels in Major cities like Mumbai, Delhi, Bengaluru, Chennai, Kolkata and Visakhapatnam and the impact of lockdown. In this post, we focus on a more diverse set of cities across India namely `Mussoorie`, `Vapi`, `Kota`, `Jabalpur`, `Coimbatore`, `Guwahati`. to see their trends in pollution levels as lockdown due to COVID is gradually lifted.
 
 The major components of air pollution are `particulate matter of sizes 2.5 microns and 10 microns` in width (PM2.5 and PM10 respectively), and gases such as `Carbon Monoxide` (CO), `Nitrogen Dioxide` (NO<sub>2</sub>), `Sulpher Dioxide` (SO<sub>2</sub>) `Ozone` (O<sub>3</sub>). In this post we focus on the PM2.5 levels.For details about pollutants and their consequences refer this [post](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md).
 
