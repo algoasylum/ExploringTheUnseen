@@ -31,7 +31,7 @@ Only looking a 2020 data indicated massive reduction in pollution levels across 
 
 Numerous articles seem to talk about how lockdown has helped with improvement in air pollution, Himalayas becoming visible and so.
 With shutting down of industries, transportation and all economic activies at standstill, one would expect huge reduction in air pollution.
-Our data seems to suggest only relatively small reduction in pollutant levels were observed compared to last year. We do not know for certain. This begs the question whether this small reduction had such postive impact and if so what a significant drop in overall pollution would look like!
+Our data seems to suggest only relatively small reduction in pollutant levels were observed compared to last year. We do not know for certain. This begs the question whether this small reduction had such postive impact and if so what a significant drop in overall pollution would look like! or maybe this might be personal misconcepting hyping the overall effects of lockdown.
 
 In an upcoming article we will take into acoount data from 2015-2020 to have a better understanding of the impact of Lockdown! Stay Tuned!
 
