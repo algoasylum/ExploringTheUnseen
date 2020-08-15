@@ -10,10 +10,11 @@ World Health Organisation (WHO) and National Ambient Air Quality Standards (NAAQ
 The AQI values for these cities was obtained from [AQICN](https://aqicn.org/data-platform/) in csv format containing values corresponding to multiple gases for major cities around the globe. Data was loaded into a pandas dataframe in order to extract values corresponding to cities under consideration (in the Indian subcontinent), followed by cleaning and formatting of data in order to incorporate correct date format and resolving discrepancies.
 The processed data was passed to the [Plotly graphing library](https://plotly.com/) in order to generate a scatter plot, highlighting the information present.
 
+### The Overall trend
 <img src="../code/images/pm2.5_barchart.png"  /><br>
 `Fig 1` : PM2.5 values for 7 Indian cities represented as a Bar Chart<br>
 
-This figure shows `stacked bar chart` of daily median values for `PM2.5` across various cities. This gives a high-level overview of the trends across the cities in a single chart. X axis is Dates and Y axis represents median values of pollutants calculated over a 24-hour frame. We observe higher values in January and February and after March we start to the reduction in the pollutant levels probably due to Lockdown imposed after Covid-19. Overall levels pretty much remain the same from April to July with few peaks and dips. <br>
+This figure shows `Stacked Bar Chart` of daily median values for `PM2.5` across various cities. This gives a high-level overview of the trends across the cities in a single chart. X axis is Dates and Y axis represents median values of pollutants calculated over a 24-hour frame. We observe higher values in January and February and after March we start to the reduction in the pollutant levels probably due to Lockdown imposed after Covid-19. Overall levels pretty much remain the same from April to July with few peaks and dips. <br>
 
 
 # Line Plots
@@ -44,7 +45,7 @@ Clearly Delhi is most polluted here, followed by Kolkata and Mumbai. Most of the
 
 Here every row represents a Pollutant and every column a City for better comparision across the board.
 
-Taking a look at PM10 levels again we see Delhi leading the PM10 levels folowed by Kolkata. We see reduction in PM10 levels for these cities after March. Kolkata's PM10 starts above Indian standards but as we reach July it is already before WHO guidelines, a good improvement. Hyderabad, Chennai and Mumbai have relatively low levels of PM10 to begin with, already under Indian standards and towards July fall under WHO standards as well.
+Taking a look at PM10 levels again we see Delhi leading the PM10 levels folowed by Kolkata. We see reduction in PM10 levels for these cities after March. Kolkata's PM10 starts above Indian standards but as we reach July it is already before WHO guidelines, a good improvement. Hyderabad, Chennai and Mumbai have relatively low levels of PM10 to begin with, already under Indian standards and towards July fall under WHO standards as well. Chennai seems to have PM10 data missing for the month of May. 
 
 ### Lets take a transpose.
 
@@ -62,7 +63,7 @@ For `SO2` levels Delhi, Kolkata and Mumbai are equally polluted. Reduction on a 
 
 
 # Conclusion
-As we move from January to July most cities show significant reduction in their PM2.5 and PM10 levels after March i.e when lockdown was imposed. Cities like Delhi with high pollution levels show reduction, but plateau out after some time, while cities like Mumbai and Kolkata show reduction in their pollution levels. But these are not without some outliers i.e peaks in Bengaluru and Chennai. This provides a concise and visually interesting way to look and pollution trends within our Country’s major cities.
+As we move from January to July most cities show significant reduction in their PM2.5 and PM10 levels after March i.e when lockdown was imposed. Cities like Delhi with high pollution levels show reduction, but plateau out after some time, while cities like Mumbai and Kolkata show reduction in their pollution levels. But these are not without some outliers i.e peaks in Bengaluru and Chennai. This provides a concise and visually interesting way to look and pollution trends within our Country’s major cities. Whether the reduction in pollutant levels is strictly due to Lockdown or other factors is unknown to us at this point. We will investigate factors like seasonal influence in an upcoming article. Stay tuned!
 
 ### Github
 
