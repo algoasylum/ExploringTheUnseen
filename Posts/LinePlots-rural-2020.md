@@ -13,7 +13,7 @@ The processed data was passed to the [Plotly graphing library](https://plotly.co
 <img src="../code/images/rural_pm2.5_bar.png"   /><br>
 Fig 1 : PM2.5 values for 6 Indian cities represented as a Bar Chart<br>
 
-This figure shows `stacked bar chart` of daily median values for `PM2.5` across various cities. This gives a high-level overview of the trends across the cities in a single chart. X axis is Dates and Y axis represents median values of pollutants calculated over a 24-hour frame. 
+This figure shows `Stacked Bar Chart` of daily median values for `PM2.5` across various cities. This gives a high-level overview of the trends across the cities in a single chart. X-axis is Dates and Y-axis represents median values of pollutants calculated over a 24-hour frame. 
  
 ## Lets plot some!
 
@@ -26,7 +26,7 @@ Few details are very evident from `Fig 1` and `Fig 2`. Cities like Vapi,which al
 <img src="../code/images/rural_pm2.5_2city_line.png"  /><br>
 Fig 3: PM2.5 values for Mussoorie and Coimbatore.
 
-Lets consider `Mussoorie`, a hill station in the north and `Coimbatore`, a city in the South. One would assume Mussoorie to be far less polluted compared to a Coimbatore. However the margins are quite colse between them! Mussoorie shows a reduction in PM2.5 levels as we enter April and sudden rise in May, reducing again in June. It is to be moted that Mussoorie is the only city to falls below under WHO levels from all the cites considered. Coimbatore shows a minuscule reduction during Lockdown and large swing towards the end of July, mostly like being data collection errors.
+Lets consider `Mussoorie`, a hill station in the north and `Coimbatore`, a city in the South. One would assume Mussoorie to be far less polluted compared to  Coimbatore. However the margins are quite close between them! Mussoorie shows a reduction in PM2.5 levels as we enter April and sudden rise in May, reducing again in June. It is to be noted that Mussoorie is the only city to falls below under WHO levels from all the cites considered. Coimbatore shows a minuscule reduction during Lockdown and large swing towards the end of July, mostly like being data collection errors.
 
 ## Hill Station Vs Industrial Area
 
