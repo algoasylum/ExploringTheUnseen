@@ -3,12 +3,7 @@
 In the previous posts, we looked at a pollution levels in 2019 [here](efef) and 2020 [here](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts./LinePlots-urban-2020.md) for major cities in India. In this post tie both of them together and try to assess the impact that Lockdown had on air pollution relative to 2019. Have a peek at [Pollution Description](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md) for a detailed description of pollutants, their acceptable limits and health problems associated with them.
 
 ### Delhi 2020
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~damaniayash/1.embed"></iframe>
 
-<div>
-    <a href="https://plotly.com/~damaniayash/1/" target="_blank" title="19vs20_delhi20" style="display: block; text-align: center;"><img src="https://plotly.com/~damaniayash/1.png" alt="19vs20_delhi20" style="max-width: 100%;width: 1300px;"  width="1300" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="damaniayash:1" src="https://plotly.com/embed.js" async></script>
-</div>
 
 
 <img src="../code/images/19vs20_20_delhi.png"  width=100% /><br>
