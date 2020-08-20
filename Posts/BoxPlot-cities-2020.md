@@ -1,6 +1,6 @@
 # Air Pollution in Indian Cities: The 2020 Story
 
-In a [previous](./BoxPlot-cities-2019.md) post, we looked at using box-plots to understand the amount of pollution in a number of cities across India. See [Pollutants Description](./Pollutants Description.md) for a description of the pollutants and their acceptable limits.
+In a [previous](./BoxPlot-cities-2019.md) post, we looked at using box-plots to understand the amount of pollution in a number of cities across India. See [Pollutants Description](Pollutants%20Description.md) for a description of the pollutants and their acceptable limits.
 
 In this article, we look at what is going on in 2020. The data is for the first seven months (uptil July),
 and the standalone images can be generated from the [notebook](../code/BoxPlot-cities.ipynb) directly.
