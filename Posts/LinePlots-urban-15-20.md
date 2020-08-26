@@ -1,6 +1,6 @@
 # Pollution in Indian Cities : A more Historic View
 
-In previous [posts](efef) we looked at a comparision of pollution levels between 2019 and 2020 for major Indian cities. In this post, we build upon prior post by incorporating more data from previous years : 2015 - 2020 to better understand the pollution trends over a larger period of time. Have a peek at [Pollution Description](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md) for a detailed description of pollutants, their acceptable limits and health problems associated with them.
+In previous [posts](e) we looked at a comparision of pollution levels between 2019 and 2020 for major Indian cities. In this post, we build upon prior post by incorporating more data from previous years : 2015 - 2020 to better understand the pollution trends over a larger period of time. Have a peek at [Pollution Description](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md) for a detailed description of pollutants, their acceptable limits and health problems associated with them.
 
 ### PM2.5 for all cities
 
@@ -37,5 +37,5 @@ Fig 5: PM2.5 levels for Delhi (with Moving Average)
 Representing data in this manner, year over year, make it very easy to compare patterns/similarity over the years. We see a very steep rise as we move from September and gradually decrease towards December. The seasonal trend that PM2.5 follows is very clear from this plot. 2017 had relatively high  levels of PM2.5 and also NO2. The red dotted line represents 2020, and it lowest amongst the bunch. A drop in PM2.5 levels was observed towards the end of March, when lockdown due to Covid-19 was imposed. Yes! we see some level of decline in pollutant levels but the decrease is rather limited and it too fizzles out as we move towards July. 
 
 ### Code
-Find the code/notebook for the bove plots [here]()
+Find the code/notebook for the bove plots [here](https://github.com/algoasylum/ExploringTheUnseen/blob/master/code/LinePlots-urban-15-20.ipynb)
 
