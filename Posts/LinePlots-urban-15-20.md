@@ -1,6 +1,6 @@
 # Pollution in Indian Cities : A more Historic View
 
-In previous [posts](e) we looked at a comparision of pollution levels between 2019 and 2020 for major Indian cities. In this post, we build upon prior post by incorporating more data from previous years : 2015 - 2020 to better understand the pollution trends over a larger period of time. Have a peek at [Pollution Description](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md) for a detailed description of pollutants, their acceptable limits and health problems associated with them.
+In previous [posts](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/LinePlots-19vs20.md) we looked at a comparision of pollution levels between 2019 and 2020 for major Indian cities. In this post, we build upon prior post by incorporating more data from previous years : 2015 - 2020 to better understand the pollution trends over a larger period of time. Have a peek at [Pollution Description](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md) for a detailed description of pollutants, their acceptable limits and health problems associated with them.
 
 ### PM2.5 for all cities
 

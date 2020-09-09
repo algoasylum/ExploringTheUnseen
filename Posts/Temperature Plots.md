@@ -1,32 +1,44 @@
-# Pollution in Indian Cities: Focus on Humidity & Temperature
+# Pollution in Indian Cities: The Temperature Effect
 
-The major components of air pollution are `particulate matter of sizes 2.5 microns and 10 microns` in width (PM2.5 and PM10 respectively), and gases such as `Carbon Monoxide` (CO), `Nitrogen Dioxide` (NO<sub>2</sub>), `Sulpher Dioxide` (SO<sub>2</sub>) `Ozone` (O<sub>3</sub>).
-
-In this article we try to visualize the changes in Environmental factors like `Temperature`, `Dew` and `Humidity` with PM2.5. The time peroid taken into consideration is from 1st January 2020 - 28th July 2020. We try to visualize and understand the trends after the lockdown was imposed.
-
-# Generating the Visualization
-The AQI values for these cities was obtained from [AQICN](https://aqicn.org/data-platform/) in csv format containing values corresponding to multiple gases for major cities around the globe. Data was loaded into a pandas dataframe in order to extract values corresponding to cities under consideration (in the Indian subcontinent), followed by cleaning and formatting of data in order to incorporate correct date format and resolving discrepancies.
-The processed data was passed to the [Plotly graphing library](https://plotly.com/) in order to generate a scatter plot, highlighting the information present.
+In previous posts, we looked at pollution trends over many years (2015-2020) and focused on the impact of lockdown due to COVID-19. In this post, we shift our attention to environmental factors like `atmoshperic temperature` and its effects on air pollution. The time period considered here is from 1st January 2019 to 27th July 2020. Have a peek at [Pollution Description](https://github.com/algoasylum/ExploringTheUnseen/blob/master/Posts/Pollutants%20Description.md) for a detailed description of pollutants, their acceptable limits and health problems associated with them.
 
 # Observation
-### Lets plot PM2.5 vs Temperature
-<img src="../code/images/pm2.5_temperature.png"  height=500 width=700 /><br>
-`Fig1`: PM2.5 vs Temperature for major Indian cities.
+### Lets look at Delhi
+<img src="../code/images/temp_delhi_no2_so2.png"  width=100% /><br>
+`Fig1`: Temperature, NO2 and SO2 for Delhi.
 
-We observe that as the Temperature increases the PM2.5 values show some level of reduction. This is quite evident if we focus particularily on Delhi. While a City like Vishakapatnam shows little to no change in its temperature.
+Temperature for Delhi starts out low at around 12.5 degrees in January and highest is around 35 degree is summer and again starts decreasing as winter approaches. Eyeballing the NO2 values, we can immediately spot that NO2 values are inversely proprotional and show `negative corelation` with temperature. Quantitatively speaking the corelation coefficient is `-0.473252` (For those who are unaware what correlation coefficient is [here](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient). The reduction in NO2 levels in Delhi after lockdown is visible here. SO2 values seem to follow the temperature curve to some extent, but to much variation to conclude anything.
+Another interesting thing to notice is that, we seem reduction in both NO2 and SO2 towards the end of June in 2019 i.e the monsoon period.
 
-### For Dew levels
-<img src="../code/images/pm2.5_dew.png"  height=500 width=700 /><br>
-`Fig2`: PM2.5 vs Dew for major Indian cities.
+### Examining NO<sub>2</sub> for all cities
+<img src="../code/images/temp_all_no2.png"  width=100% /><br>
+`Fig2`: NO2 levels for major Indian cities.
 
-Here we see a similar trend as temperature, as the Dew level increases PM2.5 levels does on decreasing. Again Delhi shows the maximum variaiton in its dew values. Intuitively it makes sense since as temperature reduces more dew is formed.
-The relation between PM2.5 and these environmental factors is what we want to understand.
+What we observed in Delhi holds True for most Indian cities as well : Negative co-relation between Temperature and NO2 levels. Cities like Bengaluru where temperature is temperature is relatively contast the corelation is weak. Kolkata  shows strong negative corelation with correlation coefficient `-0.7566`.
 
-### For Humidity
-<img src="../code/images/pm2.5_humidity.png"  height=500 width=700 /><br>
-`Fig3`: PM2.5 vs Humidity for major Indian cities.
+### For SO<sub>2</sub> and PM<sub>2.5<sub>
+<img src="../code/images/temp_all_so2.png"  width=100% /><br>
+`Fig3`: SO2 levels for major Indian cities.
 
-This one is a mixed bag.
+Mumbai has high levels of SO2 in the first quater of 2019. The relation with tempearature in not so pronounced here. Another interesting thing is that SO2 levels were more or less constant after November 2019 for most cities.
+    
+<img src="../code/images/temp_all_pm25.png"  width=100% /><br>
+`Fig5`: PM2.5 levels for major Indian cities.
+    
+### The Pearson Correaltion Coefficient
+<img src="../code/images/temp_dfmap.png"  /><br>
+`Fig3`: correlation coefficient between Temperature and NO2,SO2 and PM2.5 FOR major Indian cities.
 
-### Plot them all!
-<img src="../code/images/pm2.5_env.png"  width=100% /><br>
+Correlation coefficient ranges from `-1` to `+1`. -1 indicating strong inverse correlation and +1 indicating strong direct correlation. The dataframe is color coded from purple to blue to yellow to green according to the spectrum of light.
+To conclude,  `NO2 and PM2.5 show -ve correlation with temperature`, `SO2 has little to no correlation` except Kolkata is an outlier. in future posts we intend to delve into further depth regarding environmental factors and their correlation with air pollutants stay tuned for more!
+    
+#### Code
+    Find the notebooks to create the visualizations [here]().
+
+
+    
+
+
+
+
+
