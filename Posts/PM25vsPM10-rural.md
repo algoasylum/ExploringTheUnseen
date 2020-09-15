@@ -14,7 +14,7 @@ The processed data was passed to the [Plotly graphing library](https://plotly.co
 # Observations
 Guwahati: The gateway to the Northeast
 
-<img src="../code/images/pm25vspm10_rural/guwahati.png"  width=80% /><br>
+<img src="../code/images/pm25vspm10_rural/guwahati.png"  width=100% /><br>
 
 In the above figure:
 - Changes in the levels of particulate matter for Guwahati are plotted over a period of 7 months (Jan 2020 to July 2020).
@@ -25,7 +25,7 @@ While having relatively higher values of particulate matter compared to other ci
 
 Coimbatore : Manchester of South India (Textile Industry)
 
-<img src="../code/images/pm25vspm10_rural/coimbatore.png"  width=80% /><br>
+<img src="../code/images/pm25vspm10_rural/coimbatore.png"  width=100% /><br>
 
 While the general decreasing trend of particulate matter levels is prevalent, the PM10 values actually rise from April to May, while the PM 2.5 levels continue to decline. However, the transition from June to July notices a spike in both the values, possibly owing to the relaxation of restrictions placed due to the lockdown.
 
@@ -37,19 +37,19 @@ The presence of a sharp decline in PM levels from Feb to Mar followed by a relat
 
 Kota : India's education factory (Rajasthan)
 
-<img src="../code/images/pm25vspm10_rural/kota.png"  width=80% /><br>
+<img src="../code/images/pm25vspm10_rural/kota.png"  width=100% /><br>
 
 Apart from a short spike in PM 2.5 levels from April to May, Kota observes a consistent decline in PM levels (Feb onwards).
 
 Mussoorie : Queen of the Hills (Uttarakhand)
 
-<img src="../code/images/pm25vspm10_rural/mussoorie.png"  width=80% /><br>
+<img src="../code/images/pm25vspm10_rural/mussoorie.png"  width=100% /><br>
 
 Unlike other places covered previously, Mussoorie observes a huge spike in particle pollution levels from Jan to Feb and from April to May, followed by huge declines in levels in the coming months.
 
 Vapi : Popular industrial hub (Gujarat)
 
-<img src="../code/images/pm25vspm10_rural/vapi.png"  width=80% /><br>
+<img src="../code/images/pm25vspm10_rural/vapi.png"  width=100% /><br>
 
 Fairly linear and consistent reduction in levels of particulate matter from the start of the year to July.
 
