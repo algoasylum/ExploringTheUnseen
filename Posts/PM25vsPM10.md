@@ -24,7 +24,7 @@ While having relatively higher values of particulate matter compared to other me
 
 Bengaluru: India's Silicon Valley
 
-<img src="../code/images/pm25vspm10_urban/bangalore.png"  width=100% /><br>
+<img src="../code/images/pm25vspm10_urban/bengaluru.png"  width=100% /><br>
 
 Apart from the initial spike (Jan-Feb), Bangalore observes a declining trend till April. The impact of lockdown is clearly visible as the highest accelerated decline is observed from March-April. Like Delhi, the temporary spike (Apr-May), possibly due to partial restoration of vehicular movement and economic activity is observed, followed by reversion to the decreasing trend. The tech-hub observes a huge improvement in air quality, just like Delhi.
 
