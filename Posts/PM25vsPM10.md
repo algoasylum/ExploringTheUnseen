@@ -11,7 +11,7 @@ The processed data was passed to the [Plotly graphing library](https://plotly.co
 
 # Observation
 
-Delhi: India's Gateway and Capital
+## Delhi: India's Gateway and Capital
 
 <img src="../code/images/pm25vspm10_urban/delhi.png"  width=100% /><br>
 
@@ -22,29 +22,29 @@ In the above figure:
 
 While having relatively higher values of particulate matter compared to other mentioned cities, Delhi observes a steady decline in the PM2.5 and PM10 levels as we move from January to April. This is followed by a spike from April to May in both particulate levels, possibly owing to certain lockdown relaxations. However, the declining trend restores and July observes a drastic reduction in PM2.5 and PM10 values, resulting in a significant drop in the particulate levels from the soaring values we started off the year with.
 
-Bengaluru: India's Silicon Valley
+## Bengaluru: India's Silicon Valley
 
 <img src="../code/images/pm25vspm10_urban/bengaluru.png"  width=100% /><br>
 
 Apart from the initial spike (Jan-Feb), Bangalore observes a declining trend till April. The impact of lockdown is clearly visible as the highest accelerated decline is observed from March-April. Like Delhi, the temporary spike (Apr-May), possibly due to partial restoration of vehicular movement and economic activity is observed, followed by reversion to the decreasing trend. The tech-hub observes a huge improvement in air quality, just like Delhi.
 
-Hyderabad: The City of Nizams
+## Hyderabad: The City of Nizams
 
 <img src="../code/images/pm25vspm10_urban/hyderabad.png"  width=100% /><br>
 
 Hyderabad follows the same pattern of declining particulate levels as shown previously, interspersed by the short spike characterized by lockdown relaxations.
 
-Chennai: Gateway to South India
+## Chennai: Gateway to South India
 
 <img src="../code/images/pm25vspm10_urban/chennai.png"  width=100% /><br>
 
-Kolkata: The City of Joy
+## Kolkata: The City of Joy
 
 <img src="../code/images/pm25vspm10_urban/kolkata.png"  width=100% /><br>
 
 Kolkata observes a consistent decline in particulate levels throughout, without any intermittent spikes.
 
-Mumbai: The Commercial Capital
+## Mumbai: The Commercial Capital
 
 <img src="../code/images/pm25vspm10_urban/mumbai.png"  width=100% /><br>
 

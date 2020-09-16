@@ -12,7 +12,7 @@ The AQI values for these cities was obtained from [AQICN](https://aqicn.org/data
 The processed data was passed to the [Plotly graphing library](https://plotly.com/) in order to generate a scatter plot, highlighting the information present.
 
 # Observations
-Guwahati: The gateway to the Northeast
+## Guwahati: The gateway to the Northeast
 
 <img src="../code/images/pm25vspm10_rural/guwahati.png"  width=100% /><br>
 
@@ -23,31 +23,31 @@ In the above figure:
 
 While having relatively higher values of particulate matter compared to other mentioned cities, Guwahati observes a steady decline in the PM 2.5 and PM 10 levels as we move from January to July. The decline is accelerated post March, possibly owing to the initiation of the lockdown in March, due to COVID-19.
 
-Coimbatore : Manchester of South India (Textile Industry)
+## Coimbatore : Manchester of South India (Textile Industry)
 
 <img src="../code/images/pm25vspm10_rural/coimbatore.png"  width=100% /><br>
 
 While the general decreasing trend of particulate matter levels is prevalent, the PM10 values actually rise from April to May, while the PM 2.5 levels continue to decline. However, the transition from June to July notices a spike in both the values, possibly owing to the relaxation of restrictions placed due to the lockdown.
 
-Jabalpur : Cultural capital of Madhya Pradesh 
+## Jabalpur : Cultural capital of Madhya Pradesh 
 
 <img src="../code/images/pm25vspm10_rural/jabalpur.png"  width=80% /><br>
 
 The presence of a sharp decline in PM levels from Feb to Mar followed by a relatively small reduction and almost no change in PM10 values over the next couple of months, is quite interesting to observe, given that the lockdown got imposed in Mar itself. This is followed by a subsequent decline in the levels over the next couple of months.
 
-Kota : India's education factory (Rajasthan)
+## Kota : India's education factory (Rajasthan)
 
 <img src="../code/images/pm25vspm10_rural/kota.png"  width=100% /><br>
 
 Apart from a short spike in PM 2.5 levels from April to May, Kota observes a consistent decline in PM levels (Feb onwards).
 
-Mussoorie : Queen of the Hills (Uttarakhand)
+## Mussoorie : Queen of the Hills (Uttarakhand)
 
 <img src="../code/images/pm25vspm10_rural/mussoorie.png"  width=100% /><br>
 
 Unlike other places covered previously, Mussoorie observes a huge spike in particle pollution levels from Jan to Feb and from April to May, followed by huge declines in levels in the coming months.
 
-Vapi : Popular industrial hub (Gujarat)
+## Vapi : Popular industrial hub (Gujarat)
 
 <img src="../code/images/pm25vspm10_rural/vapi.png"  width=100% /><br>
 
