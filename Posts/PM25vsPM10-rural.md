@@ -21,7 +21,7 @@ In the above figure:
 - Co-ordinates of a point (x,y) represent the PM2.5 and PM10 values for the month respectively. 
 - The month-wise temporal trend for both the PM values can be understood by traversing the line, starting from the vertex labelled Jan till the last vertex (July).
 
-While having relatively higher values of particulate matter compared to other cities in the figure, Guwahati observes a steady decline in the PM 2.5 and PM 10 levels as we move from January to July. The decline is accelerated post March, possibly owing to the initiation of the lockdown in March, due to COVID-19.
+While having relatively higher values of particulate matter compared to other mentioned cities, Guwahati observes a steady decline in the PM 2.5 and PM 10 levels as we move from January to July. The decline is accelerated post March, possibly owing to the initiation of the lockdown in March, due to COVID-19.
 
 Coimbatore : Manchester of South India (Textile Industry)
 
