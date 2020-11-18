@@ -53,7 +53,7 @@ The USA is an ideal country to analyze the numbers, as it has a large database w
 
 <img src="../code/images/benford/italy_province(24037).png"  width=100% /><br>
 
-While showing anomalous behaviour in certain parts, Italy generally complies with the BL curve.
+While showing slightly anomalous behaviour in certain parts, Italy generally complies with the BL curve.
 
 # Conclusion
 
