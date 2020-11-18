@@ -11,7 +11,7 @@ Benford’s Law is applied as a method to analyze and find data manipulation in 
 
 Briefly explained, Benford's Law maintains that the numeral 1 will be the leading digit in a genuine data set of numbers 30.1% of the time; the numeral 2 will be the leading digit 17.6% of the time; and each subsequent numeral, 3 through 9, will be the leading digit with decreasing frequency. This expected occurrence of leading digits can be illustrated as shown in the following figure:
 
-<img src="../code/images/benford/benford.jpg"  width=100% /><br>
+<img src="../code/images/benford/benford.png"  width=100% /><br>
 
 As the BL distribution of first digits follows an exponential distribution, it is particularly suited to examine the infectious disease patterns that exhibit increasing changes over time, especially in the early stages of the spread. Hence, applying Benford on COVID19 data can be interpreted in two ways:
 
