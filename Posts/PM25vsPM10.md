@@ -22,11 +22,17 @@ In the above figure:
 
 While having relatively higher values of particulate matter compared to other mentioned cities, Delhi observes a steady decline in the PM2.5 and PM10 levels as we move from January to April. This is followed by a spike from April to May in both particulate levels, possibly owing to certain lockdown relaxations. However, the declining trend restores and July observes a drastic reduction in PM2.5 and PM10 values, resulting in a significant drop in the particulate levels from the soaring values we started off the year with.
 
+<img src="../code/images/pm25v10urban2019/Delhi.png"  width=100% /><br>
+
+
 ## Bengaluru: India's Silicon Valley
 
 <img src="../code/images/pm25vspm10_urban/bengaluru.png"  width=100% /><br>
 
 Apart from the initial spike (Jan-Feb), Bangalore observes a declining trend till April. The impact of lockdown is clearly visible as the highest accelerated decline is observed from March-April. Like Delhi, the temporary spike (Apr-May), possibly due to partial restoration of vehicular movement and economic activity is observed, followed by reversion to the decreasing trend. The tech-hub observes a huge improvement in air quality, just like Delhi.
+
+<img src="../code/images/pm25v10urban2019/Bengaluru.png"  width=100% /><br>
+
 
 ## Hyderabad: The City of Nizams
 
@@ -34,9 +40,15 @@ Apart from the initial spike (Jan-Feb), Bangalore observes a declining trend til
 
 Hyderabad follows the same pattern of declining particulate levels as shown previously, interspersed by the short spike characterized by lockdown relaxations.
 
+<img src="../code/images/pm25v10urban2019/Hyderabad.png"  width=100% /><br>
+
+
 ## Chennai: Gateway to South India
 
 <img src="../code/images/pm25vspm10_urban/chennai.png"  width=100% /><br>
+
+<img src="../code/images/pm25v10urban2019/Chennai.png"  width=100% /><br>
+
 
 ## Kolkata: The City of Joy
 
@@ -44,11 +56,15 @@ Hyderabad follows the same pattern of declining particulate levels as shown prev
 
 Kolkata observes a consistent decline in particulate levels throughout, without any intermittent spikes.
 
+<img src="../code/images/pm25v10urban2019/Kolkata.png"  width=100% /><br>
+
 ## Mumbai: The Commercial Capital
 
 <img src="../code/images/pm25vspm10_urban/mumbai.png"  width=100% /><br>
 
 Mumbai experiences a constant decline in PM2.5 and PM10 values, without the presence of any spikes between Apr-June. This is possibly because 95% of the manufacturing sector in Maharashtra halted their production, Mumbai being the worst hit. The government eased the lockdown conditions (only partially) starting May, enabling a small fraction of industries to make a muted start. However, due to the subsequent big dent in consumer demand, most plants are working on low capacity at least until the festive season. From May to July, the levels drop even more sharply, making Mumbai reach an all time low of sub-50 PM2.5 and PM10 levels. 
+
+<img src="../code/images/pm25v10urban2019/Mumbai.png"  width=100% /><br>
 
 # Conclusion
 
