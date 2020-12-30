@@ -112,4 +112,4 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Air_pollution_in_India), 
 17% by crop burning and 5% by diwali fireworks." 21 of the 30 most polluted cities in the world are in India, and 140 million people breath air that is more 
 than 10 times the WHO safe limit.
 
-Also highly recommended is _Air, Dean Spears_ (my notes [here](https://shrirang.karandikar.org/2020/01/17/air-dean-spears/))
+Also highly recommended is the book _Air, Dean Spears_ (my notes [here](https://shrirang.karandikar.org/2020/01/17/air-dean-spears/))
