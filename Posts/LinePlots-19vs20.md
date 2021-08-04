@@ -6,19 +6,22 @@ In the previous posts, we looked at a pollution levels in 2019 [here](efef) and 
 
 
 
-<img src="../code/images/19vs20_20_delhi.png"  width=100% /><br>
+
+<img src="../code/images/newplot.png"  width=100% /><br>
 Fig 1: PM2.5, PM10, CO levels for Delhi 2020
 
 Having a look Delhi's pollution levels, we see there is a reduction across all pollutants, but how can we be sure that this is because of Lockdown and not due to other factors, maybe seasonal trends? To answer this we plot the same pollutants for 2019 as well. By doing this we aim to mitigate the effects of seasonal changes to some extent and isolate the effect of lockdown. In all of the plots Green line represents NAAQS standards and Orange line represents WHO standards.
 
 ### '19 vs '20
 <img src="../code/images/19vs20_delhi.png"  width=100% /><br>
+<img src="../code/images/newplot2.png"  width=100% /><br>
 Fig 1: PM2.5, PM10, CO levels for Delhi 19 vs 20
 
 In the folowing charts `Red - 2019` and `Blue - 2020` . By super-imposing the 2019 pollution data, `2019 too follows a similar trend` of showing decline in pollution levels as we move from January to July, implying that some of the decline must be due to the seasonal changes and not entirely lockdown, atleast that is what data suggests. PM10 levels for Delhi show the most improvement, PM10 levels even fall under NAAQS standards for 2020. PM2.5 and CO follow the same pattern as '19, just displaced a bit lower.
 
 ### Lets look at Mumbai
 <img src="../code/images/19vs20_mumbai.png"  width=100% /><br>
+<img src="../code/images/newplot2.png"  width=100% /><br>
 Fig 2: PM2.5, PM10, CO levels for Mumbai 19 vs 20
 
 
@@ -26,6 +29,7 @@ Well, CO levels clearly stand out! We see a significant reduction when compared 
 
 ### Plot them all!
 <img src="../code/images/19vs20_allcities.png"  width=100% /><br>
+<img src="../code/images/newplot3.png"  width=100% /><br>
 Fig 3: 2019 vs 2020 for all cities.
 
 Looks like PM10 data for Chennai is missing. For Banglore, Chennai and Hyderabad,from January to March, the overall trends overlap quite a bit but as we approach April i.e Lockdown phase the two lines begin to diverge and show some level of decline.Look at Banglore PM2.5 for reference, indicating the effect of Lockdown, though the margins are very minuscule. PM2.5 for Delhi and Mumbai for '19 and '20 appears to be very similar show almost no reduction compared to last year even after lockdown.
