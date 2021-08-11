@@ -3,6 +3,7 @@ In previous posts, we looked at the extent of reduction in pollution due to .The
 scale and rate of what happened.
 
 <img src="../code/images/2021_1.png"  width=100% /><br>
+
 <img src="../code/images/2021_2.png"  width=100% /><br>
 <img src="../code/images/2021_3.png"  width=100% /><br>
 <img src="../code/images/2021_4.png"  width=100% /><br>
