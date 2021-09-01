@@ -26,13 +26,14 @@ We again see similar dominant frequencies and multiples of these dominant freque
 
 <img src="../code/images/fftdelhipm25freq.png"  /><br>
 
-The most dominant frequency is the same as the temperature one i.e 0.00015 = 1 / 365 * 24, corresponding the yearly variation. Thus PM<sub> 2.5 </sub> also follows the yearly pattern. More interestingly the following dominant frequency are half-yearly and quater-yearly. Again, 0.0416 = 1 / 24 shows up, the daily frequency. Thus, there exists a yearly and daily realtionship between Temperature and PM<sub>2.5</sub> and this is shown elegantly by FFT.
+The most dominant frequency is the same as the temperature one i.e `0.00015 = 1 / 365 * 24`, corresponding the yearly variation. Thus PM<sub> 2.5 </sub> also follows the yearly pattern. More interestingly the following dominant frequency are half-yearly and quater-yearly. Again, 0.0416 = 1 / 24 shows up, the daily frequency. Thus, there exists a yearly and daily realtionship between Temperature and PM<sub>2.5</sub> and this is shown elegantly by FFT.
 
 ### Fourier Transform for other cities.
 
 <img src="../code/images/fftall.png"  /><br>
 
 ### Conclusion
-.....
+We looked at the relationship between temperature and pollutants using Fourier Transform. We also explored the dominant frequencies and saw an annual and daily variation.
+
 
 
