@@ -40,7 +40,7 @@ Publishing to Github Pages is quite straightforward. The instructions can be fou
 #### Embed the Visualization with iframe
 Now that we have the link to our visualization (hosted on github pages), we can generate an iframe code for the visualization. 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="<github pages link to visualization>" height="525" width="100%"></iframe>
+` <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="<github pages link to visualization>" height="525" width="100%"></iframe> `
 
 After placing this iframe embed code into your site, your visualization will appear! (Note: you might have to modify the height and width).
 
